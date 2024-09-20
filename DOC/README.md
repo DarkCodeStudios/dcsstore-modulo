@@ -129,4 +129,4 @@ Contributi sono benvenuti! Puoi contribuire al progetto tramite **pull request**
 
 # Licenza
 
-Questo progetto è distribuito sotto licenza **MIT**. Consulta il file LICENSE per maggiori informazioni.
+Questo progetto è distribuito sotto licenza **MIT**. Consulta il file ```LICENSE``` per maggiori informazioni.
